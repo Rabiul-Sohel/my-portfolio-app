@@ -8,7 +8,7 @@ import Experience from "./Experience/Experience";
 const AboutMe = () => {
 
     return (
-        <div className='py-12 lg:py-24 text-center overflow-hidden'>
+        <div className='pt-20 lg:pt-24 text-center overflow-hidden'>
             <div className="space-y-5">
                 <h3 className="text-6xl inline  relative  font-semibold text-center after:content-['# ']  after:bg-gold ">About Me
                     <span className="content-[''] border-2 border-gold w-1/2  left-0 bottom-0   absolute "></span>

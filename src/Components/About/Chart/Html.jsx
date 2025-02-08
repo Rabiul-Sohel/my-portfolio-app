@@ -16,7 +16,7 @@ const Html = ({language, skill}) => {
             {
                 
 
-                <div className='bg-background w-full rounded-sm relative overflow-hidden    ' >
+                <div className='bg-deepBlue w-full rounded-sm relative overflow-hidden    ' >
                     <motion.div
                         
                         className=''

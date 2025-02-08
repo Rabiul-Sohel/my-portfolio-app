@@ -66,7 +66,7 @@ const Services = () => {
                         className='p-5 lg:p-8 border border-basic text-center space-y-5 flex-1'>
                         <FaWordpressSimple className='text-7xl mx-auto text-gold' />
                         <h2 className='text-xl lg:text-2xl font-semibold uppercase'>Wordpress Developer</h2>
-                        <p className='text-justify'>Passionate WordPress Developer with a track record of creating over 630+ websites. I find joy in crafting user-friendly, customizable sites.</p>
+                        <p className='text-justify'>I create responsive and user-friendly websites, focusing on custom themes, plugins, and seamless functionality. I prioritize clean design, performance optimization, and user experience, delivering tailored solutions that align with clients’ goals and enhance their online presence.</p>
                         <div className='pt-5'>
                             <Link href='/contact' className=' text-gold  hover:text-basic hover:bg-white transition duration-300 border-basic border px-4 py-2'>
                                 Say Hello

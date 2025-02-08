@@ -19,7 +19,7 @@ const ContactSection = () => {
         triggerOnce: true
     })
     return (
-        <div className='bg-deepBlue overflow-hidden px-2 py-16'>
+        <div className='bg-deepBlue overflow-hidden px-5 py-16'>
             <div className='container mx-auto'>
                 <SectionTitle title={'Get in Touch'} subTitle={'Are You Looking For Your Business Online Presence? I am here. 🙂'} />
                 <div className='flex flex-col lg:flex-row  gap-5 py-8'>

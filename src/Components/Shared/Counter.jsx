@@ -14,7 +14,7 @@ const Counter = () => {
                 <div className='text-left'>
                     <h3 ref={ref} className='text-3xl font-bold  '>
                         {
-                            inView ? <CountUp end={5} /> : 0
+                            inView ? <CountUp end={3} /> : 0
                         }
                         +</h3>
                     <p className='text-base'>Years of <br /> Experience</p>
