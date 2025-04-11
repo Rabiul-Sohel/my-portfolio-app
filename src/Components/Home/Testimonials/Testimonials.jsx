@@ -32,8 +32,8 @@ const Testimonials = () => {
                         autoplay={true}
                         modules={[Navigation, Pagination, Autoplay]}
                         pagination={true}
-                        onSlideChange={() => console.log('slide change')}
-                        onSwiper={(swiper) => console.log(swiper)}
+                        // onSlideChange={() => console.log('slide change')}
+                        // onSwiper={(swiper) => console.log(swiper)}
                     >
                         <SwiperSlide>
                             <div className=' flex justify-center min-h-[70vh] items-center '>

@@ -3,6 +3,7 @@ import "./globals.css";
 import Navbar from "@/Components/Shared/Navbar";
 import Footer from "@/Components/Shared/Footer";
 import Head from "next/head";
+import ScrollTop from "@/Components/Shared/ScrollTop";
 
 
 const geistSans = Geist({
@@ -37,6 +38,9 @@ export default function RootLayout({ children }) {
           {children}
         </div>
         <Footer />
+        <div className="fixed bottom-5 right-5">
+          <ScrollTop/>
+        </div>
       </body>
     </html>
   );
